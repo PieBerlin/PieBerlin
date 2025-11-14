@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pie_berlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pie_berlin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brighton gorova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brighton gorova" height="30" width="40" /></a>
-<a href="https://fb.com/pie berlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pie berlin" height="30" width="40" /></a>
+<a href="https://x.com/pie_berlin?t=QrWFIASJxvNMKZl-bmnkPw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pie_berlin" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/brighton-gorova-9b656533a?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brighton gorova" height="30" width="40" /></a>
+<a href="(https://www.facebook.com/rackie.cheng.5)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pie berlin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
